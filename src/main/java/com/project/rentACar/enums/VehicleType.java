@@ -1,4 +1,4 @@
-package Enums;
+package com.project.rentACar.enums;
 
 public enum VehicleType {
     SEDAN,
